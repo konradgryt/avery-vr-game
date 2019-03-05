@@ -1,5 +1,4 @@
-# Avery-VR-Game
-AUHACK 2017 Terma challenge 
+# Avery-VR-Game 2017 Terma challenge 
 
 # Inspiration
 Our inspiration came to us from the company Terma which presented their case on the hackathon. They wanted to present a 3D audio system to a customer so they could feel and understand how it works and the importance of it to for example fighter pilots.
