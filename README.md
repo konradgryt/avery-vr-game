@@ -22,7 +22,4 @@ For one we learned that we are a bit too ambitious with our initial plans and th
 We're hoping to get our hands on an occulus development kit and a VR ready device in the future to see if we can push this concept into an actual software to be used by companies for showcases to their customers but we will have to see.
 
 # Tools
-Unity
-Oculus
-C#
-48 hours
+Unity, Oculus and C# - in 48 hours only
